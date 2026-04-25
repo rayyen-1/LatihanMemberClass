@@ -1,8 +1,0 @@
-D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe.config
-D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe
-D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.pdb
-D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.AssemblyReference.cache
-D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.SuggestedBindingRedirects.cache
-D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.CoreCompileInputs.cache
-D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.exe
-D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.pdb
