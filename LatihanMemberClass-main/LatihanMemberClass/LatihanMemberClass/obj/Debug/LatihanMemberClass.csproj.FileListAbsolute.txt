@@ -1,0 +1,16 @@
+D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe.config
+D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe
+D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.pdb
+D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.AssemblyReference.cache
+D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.SuggestedBindingRedirects.cache
+D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.CoreCompileInputs.cache
+D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.exe
+D:\25.11.6506\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.pdb
+C:\Users\MSI\Documents\materi\tugas_coding\LatihanMemberClass-main\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe.config
+C:\Users\MSI\Documents\materi\tugas_coding\LatihanMemberClass-main\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe
+C:\Users\MSI\Documents\materi\tugas_coding\LatihanMemberClass-main\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.pdb
+C:\Users\MSI\Documents\materi\tugas_coding\LatihanMemberClass-main\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\materi\tugas_coding\LatihanMemberClass-main\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.exe.config
+C:\Users\MSI\Documents\materi\tugas_coding\LatihanMemberClass-main\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\materi\tugas_coding\LatihanMemberClass-main\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.exe
+C:\Users\MSI\Documents\materi\tugas_coding\LatihanMemberClass-main\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.pdb
